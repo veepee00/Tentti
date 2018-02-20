@@ -1,0 +1,8 @@
+c:\users\k1501367\documents\visual studio 2015\Projects\Tehtävä2\Tehtävä2\bin\Debug\Tehtävä2.exe.config
+c:\users\k1501367\documents\visual studio 2015\Projects\Tehtävä2\Tehtävä2\bin\Debug\Tehtävä2.exe
+c:\users\k1501367\documents\visual studio 2015\Projects\Tehtävä2\Tehtävä2\bin\Debug\Tehtävä2.pdb
+c:\users\k1501367\documents\visual studio 2015\Projects\Tehtävä2\Tehtävä2\bin\Debug\Newtonsoft.Json.dll
+c:\users\k1501367\documents\visual studio 2015\Projects\Tehtävä2\Tehtävä2\bin\Debug\Newtonsoft.Json.xml
+c:\users\k1501367\documents\visual studio 2015\Projects\Tehtävä2\Tehtävä2\obj\Debug\Tehtävä2.csprojResolveAssemblyReference.cache
+c:\users\k1501367\documents\visual studio 2015\Projects\Tehtävä2\Tehtävä2\obj\Debug\Tehtävä2.exe
+c:\users\k1501367\documents\visual studio 2015\Projects\Tehtävä2\Tehtävä2\obj\Debug\Tehtävä2.pdb
